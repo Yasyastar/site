@@ -1,0 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ruslan+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+h1{
+	font-size: 50px;
+	color: plum;
+	font-family: 'Ruslan Display', cursive;
+}
+h3{
+font-size: 60px;
+color: purple;
+font-family: 'Caveat', cursive;	
+}
